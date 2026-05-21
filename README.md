@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" width="160" alt="GLASS-EYE Logo"/>
+<img src="logo.png" width="400" alt="GLASS-EYE Logo"/>
 
 <br/>
 
