@@ -1,49 +1,43 @@
-````md
 <div align="center">
 
-<img src="logo.png" width="180">
+<img src="logo.png" width="160" alt="GLASS-EYE Logo"/>
 
-# GLASS-EYE
+<br/>
 
-### [ COMING SOON ]
+`// PROJECT`
 
-<br>
+# <span>G L A S S - E Y E</span>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CLASSIFIED-red?style=for-the-badge&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/DEPLOYING-yellow?style=for-the-badge&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/2026-blue?style=for-the-badge&labelColor=0d1117">
-</p>
+`[ COMING SOON ]`
 
-<br>
+<br/>
+
+![Classified](https://img.shields.io/badge/CLASSIFIED-orange?style=for-the-badge&labelColor=0d1117&color=f97316)
+![Deploying](https://img.shields.io/badge/●_DEPLOYING-yellow?style=for-the-badge&labelColor=0d1117&color=eab308)
+![2026](https://img.shields.io/badge/2026-cyan?style=for-the-badge&labelColor=0d1117&color=22d3ee)
+
+</div>
+
+---
+
+```
+glass-eye@secure:~
+```
 
 ```bash
 $ boot glass-eye --protocol secure
 
-✓ core engine ............... ARMED
-✓ encryption layer .......... ACTIVE
-✓ surveillance mode ......... ONLINE
-◌ launch sequence ........... PENDING
-
-$
-````
-
-<br>
-
-```diff
-+ SYSTEM STATUS : INITIALIZING
-+ AI CORE       : LOADING
-+ SECURITY      : ENABLED
-+ RELEASE       : COMING SOON
+  ✔  core engine .................. ARMED
+  ✔  encryption layer ............ ACTIVE
+  ✔  surveillance mode ........... ONLINE
+  ↺  launch sequence ............. PENDING
+  $  _
 ```
 
-<br>
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align="center">
 
-### GLASS-EYE — COMING SOON
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**GLASS-EYE — ALL RIGHTS RESERVED — 2026**
 
 </div>
-```
